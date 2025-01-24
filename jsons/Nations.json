@@ -23,5 +23,5 @@
         "outerColor": [221, 0, 0],
         "innerColor": [255, 255, 255],
         "cities": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart", "Düsseldorf", "Dortmund", "Essen", "Leipzig", "Bremen", "Dresden", "Hannover", "Nuremberg", "Duisburg", "Bochum", "Wuppertal", "Bielefeld"]
-    },/
+    }
 ]
