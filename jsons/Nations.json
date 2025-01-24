@@ -1,8 +1,8 @@
 [
     {
-        "name": "Rohan",
-        "leaderName": "Theoden",
-        "adjective": ["Rohan"],
+        "name": "Nazi Germany",
+        "leaderName": "Adolf Hitler",
+        "adjective": ["German"],
         "style": "motw",
         "startBias": ["Plains"],
         "preferredVictoryType": "Domination",
@@ -22,6 +22,9 @@
                 
         "outerColor": [221, 0, 0],
         "innerColor": [255, 255, 255],
+	"uniqueName": "Null",
+        "uniqueText": "Null"
+        "uniques": ["Null"],
         "cities": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart", "Düsseldorf", "Dortmund", "Essen", "Leipzig", "Bremen", "Dresden", "Hannover", "Nuremberg", "Duisburg", "Bochum", "Wuppertal", "Bielefeld"]
     }
 ]
